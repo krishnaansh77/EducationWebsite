@@ -110,6 +110,11 @@ Open `index.html` in your browser or run with Live Server.
 * Backend integration for user data
 * Advanced exam simulations
 
+## 🌐 Live Demo
+🔗 https://assessment-lac-six.vercel.app/
+
+
+
 ---
 
 ## 🤝 Contributing
@@ -120,7 +125,7 @@ Feel free to fork this repo and improve it.
 
 ## 📧 Contact
 
-Created by **Ayush Singh**
+Created by **Ayush Patel**
 For collaboration or queries, reach out anytime.
 
 ---
